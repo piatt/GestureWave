@@ -1,0 +1,51 @@
+<!--
+Copyright (C) 2012 GestureWave
+
+This file is part of GestureWave.
+
+GestureWave is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+GestureWave is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with GestureWave. If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<resources>
+    <string name="app_name">GestureWave</string>
+
+    <string name="dialog_title">Choose an Application</string>
+
+    <string name="notification_text">Service is running. Touch for Settings.</string>
+
+    <string name="ringer_silent">RINGER SET TO SILENT</string>
+    <string name="ringer_vibrate">RINGER SET TO VIBRATE</string>
+    <string name="ringer_normal">RINGER SET TO NORMAL</string>
+	<string name="action_header">ACTIONS</string>
+	<string name="app_header">APP SHORTCUTS</string>
+	<string name="delete_message">Delete this shortcut?</string>
+	<string name="delete">Delete</string>
+	<string name="cancel">Cancel</string>
+	<string name="add_error">MAX APP SHORTCUTS CREATED</string>
+	<string name="action_help_title">Action Help</string>
+	<string name="action_help_message1">Actions can be executed using a gesture of your choice.
+		For example, wave twice over the sensors at the top of the phone while tilting the phone to the right to trigger the action.</string>
+	<string name="action_help_message2">Touch an action item to change the gesture linked to it.
+		Toggle the check box to enable or disable it.</string>
+	<string name="app_help_title">App Shortcut Help</string>
+	<string name="app_help_message1">App shortcuts allow an app to be launched using a gesture of your choice. Touch</string>
+	<string name="app_help_message2">to add a new app shortcut.
+		Long press on an app shortcut to delete it.
+		Touch an app shortcut to change the gesture	linked to it.
+		Touch the app icon to choose the app you want to launch.
+		Toggle the check box to enable or disable it.
+	</string>
+	<string name="gesture_title">Choose a Gesture</string>
+	<string name="app_error">ERROR OPENING APP</string>
+</resources>
